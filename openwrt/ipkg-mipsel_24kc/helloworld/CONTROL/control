@@ -1,0 +1,9 @@
+Package: helloworld
+Version: 1.0-1
+Depends: libc
+Source: mypackages/example/helloworld
+SourceName: helloworld
+Section: examples
+Architecture: mipsel_24kc
+Installed-Size: 1199
+Description:  A simple "Hello, world!" -application.
